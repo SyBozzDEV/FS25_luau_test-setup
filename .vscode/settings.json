@@ -1,0 +1,11 @@
+{
+    "luau-lsp.platform.type": "standard",
+    "luau-lsp.types.definitionFiles": [
+        "type_definitions/globalTypes.d.luau"
+    ],
+    "luau-lsp.types.documentationFiles": [
+        "type_definitions/en-us.json"
+    ],
+    "luau-lsp.completion.autocompleteEnd": true
+    
+}

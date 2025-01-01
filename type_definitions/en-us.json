@@ -1,0 +1,37 @@
+{
+    "@roblox/global/getXMLBool": {
+        "documentation": "function description",
+        "params": [],
+        "returns": [],
+        "learn_more_link": "",
+        "code_sample": ""
+    },
+    "@roblox/global/getXMLFloat": {
+        "documentation": "function description",
+        "params": [],
+        "returns": [],
+        "learn_more_link": "",
+        "code_sample": ""
+    },
+    "@roblox/global/getXMLInt": {
+        "documentation": "function description",
+        "params": [],
+        "returns": [],
+        "learn_more_link": "",
+        "code_sample": ""
+    },
+    "@roblox/global/getXMLString": {
+        "documentation": "function description",
+        "params": [],
+        "returns": [],
+        "learn_more_link": "",
+        "code_sample": ""
+    },
+    "@roblox/global/getXMLUInt": {
+        "documentation": "function description",
+        "params": [],
+        "returns": [],
+        "learn_more_link": "",
+        "code_sample": ""
+    }
+}
